@@ -1,8 +1,9 @@
 #!/bin/bash
 @echo off
+cls
 echo Voce foi invadido hehehehe
 echo Prepare-se para ver a introducao para os cursos de Orientação a Objetos Avançada
-timeout /t 5 >null
+timeout 5 >null
 
 start "" "https://www.youtube.com/watch?v=2654zH3bFKc"
 
