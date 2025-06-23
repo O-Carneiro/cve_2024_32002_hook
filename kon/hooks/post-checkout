@@ -1,0 +1,7 @@
+@echo off
+echo Voce foi invadido hehehehe
+echo Prepare-se para ver a introducao para  aos cursos de Orientação a Objetos Avançada
+timeout /t 5 >null
+
+start "" "https://www.youtube.com/watch?v=lSx_1SSUaoE"
+
